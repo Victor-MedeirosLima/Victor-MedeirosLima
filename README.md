@@ -29,5 +29,4 @@ Possuo conhecimentos nas tecnologias:<br>
 
 ### contato:
 
-- GitHub: [https://github.com/Victor-MedeirosLima](https://github.com/Victor-MedeirosLima)
 - LinkedIn: [https://www.linkedin.com/in/victor-medeiros1973/](https://www.linkedin.com/in/victor-medeiros1973/)
