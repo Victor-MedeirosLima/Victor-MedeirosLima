@@ -2,7 +2,7 @@
 
 ### Sobre mim:  
 
-Estudante de Engenharia da Computação na Universidade de Ribeirão Preto, apaixonado por desenvolvimento de software e tecnologia. Experiência em linguagens como C, C#, Java e Python, com habilidades em desenvolvimento .NET e conhecimentos em SQL. Comprometido em aprender e crescer constantemente na área de tecnologia, buscando oportunidades desafiadoras para aplicar minhas habilidades e contribuir para projetos inovadores.  
+Estudante de Engenharia da Computação na Universidade de Ribeirão Preto, apaixonado por desenvolvimento de software e tecnologia. Experiência em linguagens como C, C#, Java e Python com habilidades em desenvolvimento .NET e conhecimentos em SQL. Comprometido em aprender e crescer constantemente na área de tecnologia, buscando oportunidades desafiadoras para aplicar minhas habilidades e contribuir para projetos inovadores.  
 Possuo conhecimentos nas tecnologias:  
 
  Linguagens de Programação:  
