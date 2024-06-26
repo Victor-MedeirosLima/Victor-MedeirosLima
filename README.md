@@ -5,7 +5,7 @@
 Estudante de Engenharia da Computação na Universidade de Ribeirão Preto, apaixonado por desenvolvimento de software e tecnologia. Experiência em linguagens como c,C#, Java e Python, com habilidades em desenvolvimento .NET e conhecimentos em SQL. Comprometido em aprender e crescer constantemente na área de tecnologia, buscando oportunidades desafiadoras para aplicar minhas habilidades e contribuir para projetos inovadores.  
 Possuo conhecimentos nas tecnologias:  
 
- Linguagens de Programação: <br>
+ Linguagens de Programação:  
 
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
